@@ -1,0 +1,13 @@
+# macOS에서 자동 생성되는 파일 무시
+.DS_Store
+
+# macOS ._ 파일 무시
+._*
+
+# macOS에서 생성되는 Thumbs.db와 유사한 Spotlight 관련 파일
+.Spotlight-V100
+.Trashes
+
+# 기타 macOS 시스템 파일
+.AppleDouble
+.LSOverride
